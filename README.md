@@ -18,13 +18,13 @@ But that's not all; This game is designed to fit effortlessly into your surround
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-![Screenshot 4](screenshots/screenshot4.png)
-![Screenshot 5](screenshots/screenshot5.png)
-![Screenshot 6](screenshots/screenshot6.png)
-![Screenshot 7](screenshots/screenshot7.png)
+![Screenshot 1](Screenshot1.png)
+![Screenshot 2](Screenshot2.png)
+![Screenshot 3](Screenshot3.png)
+![Screenshot 4](Screenshot4.png)
+![Screenshot 5](Screenshot5.png)
+![Screenshot 6](Screenshot6.png)
+![Screenshot 7](Screenshot7.png)
 
 ## Video
 
