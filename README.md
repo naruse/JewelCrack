@@ -25,7 +25,3 @@ But that's not all; This game is designed to fit effortlessly into your surround
 ![Screenshot 5](Screenshot5.png)
 ![Screenshot 6](Screenshot6.png)
 ![Screenshot 7](Screenshot7.png)
-
-## Video
-
-[<img src="https://img.youtube.com/vi/Nk-diZHw3Aw/0.jpg" width="100%">](https://www.youtube.com/watch?v=Nk-diZHw3Aw "Now in visionOS: 55")
