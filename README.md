@@ -17,7 +17,7 @@ But that's not all; This game is designed to fit effortlessly into your surround
 - Play anywhere, anytime, and let the stress melt away
 
 <h2>Video</h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Nk-diZHw3Aw?si=tfdpkOjBSFfSyNNC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    [<img src="https://img.youtube.com/vi/Nk-diZHw3Aw/0.jpg" width="100%">](https://www.youtube.com/watch?v=Nk-diZHw3Aw "Now in visionOS: 55")
 
 
 ## Screenshots
