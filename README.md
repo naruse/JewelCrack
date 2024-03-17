@@ -28,6 +28,6 @@ But that's not all; This game is designed to fit effortlessly into your surround
 
 ## Video
 
-[![Jewel Crack Gameplay Video](https://img.youtube.com/vi/Nk-diZHw3Aw/0.jpg)](https://www.youtube.com/watch?v=Nk-diZHw3Aw)Nk-diZHw3Aw
+[![Jewel Crack Gameplay Video](https://img.youtube.com/vi/Nk-diZHw3Aw/0.jpg)](https://www.youtube.com/watch?v=Nk-diZHw3Aw)
 
-[<img src="Screenshot1" width="100%">](https://www.youtube.com/watch?v=Nk-diZHw3Aw "Now in visionOS: 55")
+[<img src="https://img.youtube.com/vi/Nk-diZHw3Aw/0.jpg" width="100%">](https://www.youtube.com/watch?v=Nk-diZHw3Aw "Now in visionOS: 55")
